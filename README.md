@@ -1,2 +1,2 @@
 # Java-On-Hackerrank
-Java tutorial , example solution of medium challenges
+The solutions for medium challenges
